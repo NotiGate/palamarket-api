@@ -1,0 +1,11 @@
+# Le port d'écoute de l'API
+PORT=5000
+
+# Votre URL de connnexion à la base de donnée MongoDB | Exemple :
+DB_PASS=mongodb+srv://USERNAME:PASSWORD@cluster0.c4ocp.mongodb.net/palamarket
+
+# Token de votre bot
+BOT_TOKEN=BOT_TOKEN
+
+# Le mot de passe admin pour payer une commande
+ADMIN_PASS=LjUcg2n9p887VpwNNPjQ62t64569X67A45k8aGcTf6bU5G4wdB9QWLSW9agb4N7H8si58y2Fh2GE279ZdTjWC3Bpji799r77xQhVGTDBwspX6QSdjiWLkhv625Kcu3Pj
