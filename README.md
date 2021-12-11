@@ -88,7 +88,8 @@ Body {
 PATH_REQUEST = http://yourdomain.com:PORT/api/order/delivered/<id_order>
 Body {
     "manager":"Nom du livreur"
-}```
+}
+```
 
 ## Contribution
 Si vous trouvez un bug, merci de le signaler, des bugs peuvent être présents.
