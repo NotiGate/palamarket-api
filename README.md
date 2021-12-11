@@ -1,5 +1,4 @@
-# Bot d'enchère
-PalaMarket API
+# PalaMarket API
 
 ## Installation
 
