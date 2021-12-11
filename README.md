@@ -11,6 +11,8 @@ npm install
 
 ## Configuration
 
+Renommer le fichier dans le dossier config (rename to .env .txt) en .env
+
 Dans le fichier .env :
 
 ```bash
@@ -86,7 +88,7 @@ Body {
 PATH_REQUEST = http://yourdomain.com:PORT/api/order/delivered/<id_order>
 Body {
     "manager":"Nom du livreur"
-}
+}```
 
 ## Contribution
 Si vous trouvez un bug, merci de le signaler, des bugs peuvent être présents.
