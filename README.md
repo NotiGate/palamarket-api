@@ -89,7 +89,7 @@ Body {
 }
 
 ## Contribution
-Si vous trouvez un bug, merci de le signaler, c'est une première version, des bugs peuvent être présents.
+Si vous trouvez un bug, merci de le signaler, des bugs peuvent être présents.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
